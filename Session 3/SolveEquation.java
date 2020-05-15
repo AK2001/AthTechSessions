@@ -16,14 +16,4 @@ public class SolveEquation
     }
 
 
-
-
-
-
-
-
-
-
-
-
 }
